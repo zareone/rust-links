@@ -56,6 +56,8 @@
 
 [Deploying Rust applications to Heroku, with example code for Iron](http://www.randomhacks.net/2014/09/17/deploying-rust-heroku-iron/)
 
+[24 Days of Rust - Hyper](http://siciarz.net/24-days-of-rust-hyper/)
+
 
 # Architecture
 
