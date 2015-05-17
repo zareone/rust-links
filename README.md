@@ -51,6 +51,8 @@
 
 [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/)
 
+[Improved Error Handling in Rust](http://lucumr.pocoo.org/2014/11/6/error-handling-in-rust/)
+
 
 # Web Development
 
